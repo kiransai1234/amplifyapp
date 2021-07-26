@@ -1,2 +1,2 @@
 # amplifyapp
-test amplify features
+test amplify features d
